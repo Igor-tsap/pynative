@@ -1,6 +1,5 @@
 number1 = 20
 number2 = 30
-
 if (number1 * number2) < 1000:
     print("The result is", number1 * number2)
 else:
@@ -8,7 +7,6 @@ else:
 
 number1 = 40
 number2 = 30
-
 if (number1 * number2) < 1000:
     print("The result is", number1 * number2)
 else:
