@@ -11,6 +11,6 @@
 #================================Task 2 end=========================================
 # Take a sentence and print only the first five characters and the last three characters.
 #================================Task 3 start=======================================
-my_sentence = "Everybody knows kung fu, but they are all different, when you know mine - you will be dead"
-print(my_sentence[:4], my_sentence[-3:])
+# my_sentence = "Everybody knows kung fu, but they are all different, when you know mine - you will be dead"
+# print(my_sentence[:4], my_sentence[-3:])
 #================================Task 3 end=========================================
